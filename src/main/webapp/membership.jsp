@@ -102,6 +102,8 @@
             <th>Duration</th>
 
             <th>Membership Fee</th>
+            <th>Membership Type</th>
+			<th>Membership Status</th>
 
         </tr>
 
