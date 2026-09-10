@@ -116,6 +116,8 @@
             <td>1 Month</td>
 
             <td>₹1,000</td>
+            <td>Monthly</td>
+			<td>Active</td>
 
         </tr>
 
@@ -128,6 +130,8 @@
             <td>3 Months</td>
 
             <td>₹2,500</td>
+            <td>Monthly</td>
+			<td>Active</td>
 
         </tr>
 
